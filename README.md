@@ -11,3 +11,5 @@
 ### classificationDataAugmentation_classifyFlower
 
 ### transferLearningFineTune_classifyCatDog
+- 전이학습
+- 미세조정
